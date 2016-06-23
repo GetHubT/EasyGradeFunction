@@ -1,0 +1,22 @@
+
+        body {
+    	    text-align: center;
+    	    background: url(http://www.mhprep.com/uploads/4/3/9/7/4397552/1541780_orig.png);
+    	    background-position: center;
+    	    color: maroon;
+        }
+        h1{
+        	font-size: 60px;
+        }
+        p {
+        	font-size: 25px;
+        }
+        input {
+        	border: 0;
+        	padding: 10px;
+        }
+        button[type="submit"]
+        {
+        	background: red;
+        	color: white;
+        }
