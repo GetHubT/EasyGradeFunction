@@ -1,7 +1,6 @@
 $(document).ready(function(){
 	$("#submit").click(function(){
 	    var gradenum = parseInt(document.getElementById("gradenum"));
-	    var grade;
 			if(gradenum >= 90 && gradenum <= 100) {
 				grade = 'A';
 			}
